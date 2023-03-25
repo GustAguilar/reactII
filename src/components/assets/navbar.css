@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .navbar {
+    background: #441e8a;
+    padding: 20px 40px;
+    color: white;
+  }
+
+ .contenedor {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ }
+
+ .activo {
+  font-weight: bold;
+  color : red;
+ }

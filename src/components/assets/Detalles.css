@@ -1,0 +1,32 @@
+.botonRegresar { 
+    width: fit-content;
+    padding: 10% 40%;
+   background-color: #441e8a;
+   border: 1px solid #441e8a;
+   color: white;
+   border-radius: 5px;
+   cursor: pointer;
+   font-size: medium;
+   margin-top: 30%;
+}
+
+.contenedorCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 8%;
+   
+}
+
+.pokemonCard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokemonCard img {
+    width: 400px;
+}
